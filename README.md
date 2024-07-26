@@ -9,6 +9,4 @@ and professional experiences for prediction purposes.
 job placement likelihood for internal analysis.
 
 
-Technologies Used:
 
-Python
