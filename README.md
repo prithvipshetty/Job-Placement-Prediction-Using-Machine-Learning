@@ -5,3 +5,7 @@ individual data.
 and professional experiences for prediction purposes.
 • Integrated visualization tools within the code to provide clear and insightful representations of factors influencing
 job placement likelihood for internal analysis.
+
+Technologies Used:
+
+Python
